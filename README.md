@@ -18,15 +18,3 @@
 
 - _[React]_ - **Frontend Framework**
 - _[Chakra UI]_ - **Component Library**
-
-
-
-
-
-
-```
-
-
-
-
-
